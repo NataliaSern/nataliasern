@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300" height="300" src="./banner.png" align="center" alt="icon" />
+ <img width="400" height="300" src="./banner.png" align="center" alt="icon" />
  <h2 align="center">Open source developer</h2>
 </p>
   <p align="center">
