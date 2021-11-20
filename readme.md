@@ -3,7 +3,7 @@
  <h2 align="center">Open source developer</h2>
 </p>
   <p align="center">
-    <a href="https://nataliasern.github.io/nataliasern">
+    <a href="https://nataliasern.github.io/aboutme/">
       <img src="https://img.shields.io/badge/Visit-Portfolio-violet" />
     </a>
   </p>
